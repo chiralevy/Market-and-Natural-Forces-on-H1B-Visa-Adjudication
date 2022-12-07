@@ -1,5 +1,7 @@
 # Market and Natural Forces on H1B Visa Adjudication
 
+![Visa Stock Photo](visastockphoto.jpg)
+
 ## Introduction
 
 In this project, I investigate the influence of COVID-19 and the tech labor market on H1B Visa acceptance rates and wait times. The H1B Visa is a non-immigrant work visa that allows U.S. employers to hire foreign workers for specialty jobs that require a bachelor's degree or equivalent. This visa is particularly relevant today as it is the most common visa status applied for and held by international students once they complete college. Additionally, the receipt of an H1B visa is predictive of long term personal and career health. 
